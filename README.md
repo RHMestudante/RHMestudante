@@ -1,11 +1,13 @@
 
-### Opa, seja bem vindo ao meu github!
+## Opa, seja bem vindo ao meu github!
 
+Um espaço onde compartilho minhas ideias e paixões pelo mundo da programação.
 
+## Minhas estatisticas: 
+[![Reinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhmestudante&locale=pt-br&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Rhm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhmestudante&show_icons=true&theme=transparent&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhmestudante&layout=compact)
-
+## Tecnologias do meu dia a dia: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhmestudante&locale=pt-br&theme=transparent)
 
 
 
